@@ -1,3 +1,6 @@
+
+include ApplicationHelper
+
 def full_title(page_title)
 	base_title = "Akiyama"
 	if page_title.empty?
